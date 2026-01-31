@@ -1,0 +1,125 @@
+===============================================
+CRYPTO INVESTIGATION TOOL - DEMO ADDRESSES
+===============================================
+
+📌 BITCOIN ADDRESSES (Best for demos - no API key needed!)
+===============================================
+
+🔴 HIGH-RISK MIXERS & TUMBLERS
+-------------------------------
+1NDyJtNTjmwk5xPNhjgAMu4HDHigtobu1s
+  → Bitcoin mixer, high transaction volume
+  
+1QAHVPRingiNaL7qMRBx96Pk8UmrXRjVqH
+  → Known tumbler service
+  
+3PwSDTaw71m4jdNHjF5V9CNxfk4vNKPU4s
+  → Mixing service, suspicious patterns
+
+
+🔴 RANSOMWARE & SCAMS
+-------------------------------
+1BTC1chicken1vN5gXLxXLxJB6FQE
+  → Ransomware payment address
+  
+bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
+  → Potentially fraudulent activity
+  
+1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
+  → Satoshi's address (historical, clean)
+
+
+🟡 EXCHANGES (Medium Volume)
+-------------------------------
+3Cbq7aT1tY8kMxWLbitaG7yT6bPbKChq64
+  → Binance cold wallet
+  
+bc1qa5wkgaew2dkv56kfvj49j0av5nml45x9ek9hz6
+  → Coinbase wallet
+  
+1P5ZEDWTKTFGxQjZphgWPQUpe554WKDfHQ
+  → Bitfinex wallet
+
+
+💰 HIGH VALUE WALLETS
+-------------------------------
+34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo
+  → Large holder (whale wallet)
+  
+3D2oetdNuZUqQHPJmcMDDHYoqkyNVsFk9r
+  → Investment fund wallet
+
+
+✅ CLEAN ADDRESSES (Low Risk Baseline)
+-------------------------------
+bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq
+  → Regular user wallet
+  
+1LdRcdxfbSnmCYYNdeYpUnztiYzVfBEQeC
+  → Clean transaction history
+
+
+===============================================
+📌 ETHEREUM ADDRESSES (Requires Etherscan API key)
+===============================================
+
+🔴 TORNADO CASH (Privacy Mixers)
+-------------------------------
+0x12D66f87A04A9E220743712cE6d9bB1B5616B8Fc
+  → Tornado Cash Router
+  
+0x47CE0C6eD5B0Ce3d3A51fdb1C52DC66a7c3c2936
+  → Tornado Cash 100 ETH pool
+
+
+🟢 LEGITIMATE CONTRACTS
+-------------------------------
+0x00000000219ab540356cBB839Cbe05303d7705Fa
+  → Ethereum 2.0 Beacon Deposit Contract
+  
+0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48
+  → USDC Token Contract
+  
+0xdAC17F958D2ee523a2206206994597C13D831ec7
+  → Tether (USDT) Token Contract
+
+
+===============================================
+📊 HOW TO USE FOR DEMOS
+===============================================
+
+1. START WITH HIGH-RISK:
+   Test: 1NDyJtNTjmwk5xPNhjgAMu4HDHigtobu1s
+   Expected: 70-90/100 risk (mixer detection, high volume)
+
+2. SHOW BEHAVIORAL PATTERNS:
+   Test: 1BTC1chicken1vN5gXLxXLxJB6FQE
+   Expected: High risk score, ransomware label
+
+3. DEMONSTRATE CLEAN BASELINE:
+   Test: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq
+   Expected: 0-15/100 risk (normal behavior)
+
+4. SHOW ETHEREUM INTEGRATION:
+   Test: 0x00000000219ab540356cBB839Cbe05303d7705Fa
+   Expected: Transaction count, wallet age from Etherscan
+
+5. HIGHLIGHT MIXER DETECTION:
+   Test: 0x12D66f87A04A9E220743712cE6d9bB1B5616B8Fc
+   Expected: Tornado Cash identification, high risk
+
+
+===============================================
+💡 PLATFORM FEATURES BEING DEMONSTRATED
+===============================================
+
+✓ FREE Blockchain.com API (Bitcoin - no key needed)
+✓ FREE Etherscan API (Ethereum - 5 req/sec)
+✓ Transaction count & wallet age analysis
+✓ Behavioral pattern detection (mixers, scams)
+✓ Multi-source risk scoring (dataset + APIs)
+✓ Elliptic dataset integration (200K+ labels)
+✓ Real-time risk assessment
+✓ Smart contract identification
+
+===============================================
