@@ -7,7 +7,7 @@ function NavBar() {
     const location = useLocation();
     return (
         <nav className="navbar">
-            <div className="nav-brand">CyberTrace AI</div>
+            <div className="nav-brand">CyberTrace</div>
             <div className="nav-links">
                 <Link to="/" className={location.pathname === '/' ? 'active' : ''}>Dashboard</Link>
                 <Link to="/investigate" className={location.pathname === '/investigate' ? 'active' : ''}>Investigation</Link>

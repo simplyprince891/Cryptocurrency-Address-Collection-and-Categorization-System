@@ -10,17 +10,10 @@ CRYPTO INVESTIGATION TOOL - DEMO ADDRESSES
 1NDyJtNTjmwk5xPNhjgAMu4HDHigtobu1s
   → Bitcoin mixer, high transaction volume
   
-1QAHVPRingiNaL7qMRBx96Pk8UmrXRjVqH
-  → Known tumbler service
-  
-3PwSDTaw71m4jdNHjF5V9CNxfk4vNKPU4s
-  → Mixing service, suspicious patterns
-
 
 🔴 RANSOMWARE & SCAMS
 -------------------------------
-1BTC1chicken1vN5gXLxXLxJB6FQE
-  → Ransomware payment address
+
   
 bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
   → Potentially fraudulent activity
@@ -60,7 +53,7 @@ bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq
 
 
 ===============================================
-📌 ETHEREUM ADDRESSES (Requires Etherscan API key)
+📌 ETHEREUM ADDRESSES 
 ===============================================
 
 🔴 TORNADO CASH (Privacy Mixers)
@@ -84,42 +77,24 @@ bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq
   → Tether (USDT) Token Contract
 
 
-===============================================
-📊 HOW TO USE FOR DEMOS
-===============================================
 
-1. START WITH HIGH-RISK:
+1.HIGH-RISK:
    Test: 1NDyJtNTjmwk5xPNhjgAMu4HDHigtobu1s
    Expected: 70-90/100 risk (mixer detection, high volume)
 
-2. SHOW BEHAVIORAL PATTERNS:
+2. BEHAVIORAL PATTERNS:
    Test: 1BTC1chicken1vN5gXLxXLxJB6FQE
    Expected: High risk score, ransomware label
 
-3. DEMONSTRATE CLEAN BASELINE:
+3.  CLEAN BASELINE:
    Test: bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq
    Expected: 0-15/100 risk (normal behavior)
 
-4. SHOW ETHEREUM INTEGRATION:
+4. ETHEREUM INTEGRATION:
    Test: 0x00000000219ab540356cBB839Cbe05303d7705Fa
    Expected: Transaction count, wallet age from Etherscan
 
-5. HIGHLIGHT MIXER DETECTION:
+5. MIXER DETECTION:
    Test: 0x12D66f87A04A9E220743712cE6d9bB1B5616B8Fc
    Expected: Tornado Cash identification, high risk
 
-
-===============================================
-💡 PLATFORM FEATURES BEING DEMONSTRATED
-===============================================
-
-✓ FREE Blockchain.com API (Bitcoin - no key needed)
-✓ FREE Etherscan API (Ethereum - 5 req/sec)
-✓ Transaction count & wallet age analysis
-✓ Behavioral pattern detection (mixers, scams)
-✓ Multi-source risk scoring (dataset + APIs)
-✓ Elliptic dataset integration (200K+ labels)
-✓ Real-time risk assessment
-✓ Smart contract identification
-
-===============================================
